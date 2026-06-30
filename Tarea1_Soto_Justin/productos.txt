@@ -1,0 +1,5 @@
+P001,Mouse Logitech,50,5.00,8.50
+P002,Teclado Mecanico,30,15.00,25.00
+P003,Monitor 24 pulgadas,15,90.00,140.00
+P004,Audifonos Bluetooth,40,10.00,18.00
+P005,Webcam HD,25,12.00,20.00
